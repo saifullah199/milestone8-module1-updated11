@@ -39,6 +39,7 @@
     "id": 3,
     "name": "Business Plan",
     "price": 59.99,
+    "popular": true,
     "description": "Designed for growing businesses needing advanced management and automation tools.",
     "features": [
       "Everything in Pro Plan",
