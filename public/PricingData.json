@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 9.99,
+    "description": "Perfect for individuals just getting started with our platform.",
+    "features": [
+      "Access to all core tools",
+      "Up to 5 active projects",
+      "5 GB cloud storage",
+      "Basic analytics dashboard",
+      "Community forum access",
+      "Email support (48-hour response)",
+      "Basic templates included",
+      "Secure data encryption",
+      "Access on desktop and mobile",
+      "Automatic weekly backups"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro Plan",
+    "price": 29.99,
+    "description": "Ideal for professionals and small teams looking to scale their productivity.",
+    "features": [
+      "Everything in Basic Plan",
+      "Unlimited projects",
+      "50 GB cloud storage",
+      "Advanced analytics & reporting",
+      "Team collaboration tools",
+      "Custom branding options",
+      "Priority email support (24-hour response)",
+      "Access to beta features",
+      "Integrations with Google Drive, Slack, and Trello",
+      "Version control and activity logs"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Business Plan",
+    "price": 59.99,
+    "description": "Designed for growing businesses needing advanced management and automation tools.",
+    "features": [
+      "Everything in Pro Plan",
+      "500 GB secure cloud storage",
+      "Dedicated account manager",
+      "Workflow automation tools",
+      "Role-based user permissions",
+      "Advanced security & audit logs",
+      "API access for integrations",
+      "24/7 live chat support",
+      "Custom reporting dashboard",
+      "Team performance insights"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Enterprise Plan",
+    "price": 99.99,
+    "description": "Tailored for large organizations requiring full customization, control, and priority service.",
+    "features": [
+      "Everything in Business Plan",
+      "Unlimited storage",
+      "Unlimited team members",
+      "Custom SLA and onboarding",
+      "Single sign-on (SSO) integration",
+      "AI-powered data insights",
+      "Dedicated success manager",
+      "Quarterly business reviews",
+      "Personalized staff training sessions",
+      "24/7 phone & priority support"
+    ]
+  }
+]
