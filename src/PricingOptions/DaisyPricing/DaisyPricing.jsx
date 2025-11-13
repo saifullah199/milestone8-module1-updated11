@@ -1,10 +1,10 @@
 
 
 const DaisyPricing = ({pricing}) => {
-    console.log(pricing)
+    // console.log(pricing)
 
     const {name, price, features, popular} =pricing
-    console.log(popular)
+    // console.log(popular)
     return (
         <div>
             <div className="card w-96 bg-base-100 shadow-sm">
